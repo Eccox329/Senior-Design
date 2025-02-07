@@ -1,0 +1,85 @@
+﻿OID,OBJECTID_1,BLDG_Name,Location,BLDG_NUM,FLOOR_NUM,Serial,Brand,Model,Battery_ExpDate,Pads_ExpDate,Cab_Alarm_Func,Flagged,ColDate,Status,X,Y,InspDate,created_date,last_edited_date
+1,121,111 Lampe Drive,"1st floor hallway, near custodial room 123B",038,01,X04H040472,Zoll,AED Plus,,,Yes,Yes,12/9/2022,Active,-78.66771262,35.78567282,,12/9/2022,1/30/2025
+2,70,1911 Bldg,Outside Room 111,036,,X17L978238,Zoll,AED Plus,3/1/2023,6/17/2023,,,,Active,-78.66734738,35.78646292,,6/27/2022,1/30/2025
+8,16,Biltmore Hall (Robertson Wing),Lower Landing beside Room 1026A,113,01,X12L577969,Zoll,AED Plus,3/1/2024,7/20/2024,,,,Active,-78.67748926,35.78219265,,6/27/2022,1/30/2025
+9,31,Biltmore Hall (Robertson Wing),Across From Room 2105B,113,02,X17C909622,Zoll,AED Plus,3/2/2028,7/20/2024,No,,,Active,-78.67763537,35.78228796,,6/27/2022,1/30/2025
+10,118,Brooks Hall,"2nd floor main hallway, near room 217 closet, across from design library (room 209) entrance",011,02,,,,,,,Yes,12/9/2022,Active,-78.66472093,35.78447673,,12/9/2022,1/30/2025
+11,28,Broughton Hall,Outside Room 3223,051,,X17L978038,Zoll,AED Plus,3/1/2023,5/10/2023,,,,Active,-78.67039738,35.78553992,,6/27/2022,1/30/2025
+12,5052,Carmichael Gymnasium,Down from 1605 ,101,01,X05D059043,Zillow,,3/1/2029,11/28/2025,No,No,,Active,-78.67175319,35.78283953,3/7/2024,3/7/2024,1/30/2025
+14,91,Miller Field Athletic Storage - Building C,Miller Field House,119C,,X12J573071,Zoll,AED Plus,8/1/2022,8/1/2022,,Yes,,Active,-78.67232738,35.78161292,,6/27/2022,1/30/2025
+15,98,Miller Field Athletic Storage - Building C,Miller Field House,119C,,X14B651876,Zoll,AED Plus,3/1/2023,8/1/2022,,Yes,,Active,-78.67232138,35.78161292,,6/27/2022,1/30/2025
+16,21,Carmichael Gymnasium,2nd Floor Stairwell Landing,101,02,X13E601732,Zoll,AED Plus,3/2/2029,4/17/2026,No,No,,Active,-78.67159738,35.78273292,3/7/2024,6/27/2022,1/30/2025
+17,47,Carmichael Gymnasium,3rd Floor Wellness and Rec near 3600A,101,03,X12J573566,Zoll,AED Plus,3/2/2032,4/17/2026,No,No,,Active,-78.67141738,35.78266292,3/7/2024,6/27/2022,1/30/2025
+18,22,Carmichael Gymnasium,Front entrance ,101,G,X12I565750,Zoll,AED Plus,4/1/2032,4/17/2026,No,No,,Active,-78.67219405,35.78268207,3/7/2024,6/27/2022,1/30/2025
+19,52,Carmichael Gymnasium,50 Meter Pool Deck by Room 1505A,101,,X13D599141,Zoll,AED Plus,8/1/2022,8/1/2022,,Yes,,Active,-78.67218738,35.78271292,,6/27/2022,1/30/2025
+20,1043,Carmichael Gymnasium,Next to elevator 2 on second floor,101,02,X03H019688,Zoll,AED Plus,3/1/2029,11/28/2025,No,No,7/19/2023,Active,-78.67148246,35.78320344,3/7/2024,7/19/2023,1/30/2025
+21,1044,Carmichael Gymnasium,3rd Floor next to elevators,101,03,X09H417623,Zoll,AED Plus,3/1/2029,11/28/2025,No,No,7/19/2023,Active,-78.6716041,35.78323466,3/7/2024,7/19/2023,1/30/2025
+22,1045,Carmichael Gymnasium,Fourth Floor Outside of Elevators,101,04,X08A143410,Zoll,AED Plus,3/1/2029,11/28/2025,Yes,No,7/19/2023,Active,-78.67141875,35.78325698,3/7/2024,7/19/2023,1/30/2025
+23,1046,Carmichael Gymnasium,Fourth Floor Functional Training Room,101,04,X13D599149,Zoll,AED Plus,3/1/2032,4/16/2026,Yes,No,7/19/2023,Active,-78.67133211,35.78332086,3/7/2024,7/19/2023,1/30/2025
+24,1444,Carmichael Gymnasium,Inside Room 1223A,101,01,X12J572924,Zoll,AED Plus,3/1/2032,4/16/2026,No,No,7/19/2023,Active,-78.67211364,35.78330953,2/5/2024,7/19/2023,1/30/2025
+25,1445,Carmichael Gymnasium,Room 1211,101,01,010084794600215221X17K969627,Zoll,AEDPLUS,,4/16/2026,Not Assessed,,7/20/2023,Hidden,-78.6720488,35.78328767,,7/20/2023,1/30/2025
+26,1446,Carmichael Gymnasium,Room 1211,101,01,X12J573360,Zoll,AEDPLUS,,4/20/2026,,,7/20/2023,Hidden,-78.67202827,35.78329945,,7/20/2023,1/30/2025
+27,1447,Carmichael Gymnasium,Room 1211,101,01,X12J573071,Zoll,AED Plus,,7/23/2027,,No,7/20/2023,Hidden,-78.67205789,35.78335047,,7/20/2023,1/30/2025
+28,1448,Carmichael Gymnasium,Room 1211,101,01,X14B651876,Zoll,AED Plus,,7/23/2027,,No,7/20/2023,Hidden,-78.67209572,35.78325304,,7/20/2023,1/30/2025
+29,643,Carmichael Gymnasium,Outside room 1131,101,01,X12H561519,Zoll,AED Plus,3/1/2029,11/28/2025,No,No,,Active,-78.67129903,35.78321154,3/5/2024,7/19/2023,1/30/2025
+30,1449,Carmichael Gymnasium,Outside of elevator 4,101,01,X12J573364,Zoll,AED Plus,3/5/2032,4/16/2026,No,No,7/20/2023,Active,-78.67276469,35.78383558,3/5/2024,7/20/2023,1/30/2025
+31,1450,Carmichael Gymnasium,"Outside of elevator 4 on second floor, along track",101,02,X13E602168,Zoll,AED Plus,3/5/2032,4/16/2026,No,No,7/20/2023,Active,-78.67278301,35.78377509,3/5/2024,7/20/2023,1/30/2025
+32,1451,Carmichael Gymnasium,Outside elevator 4 on third floor,101,03,X12J573552,Zoll,AED Plus,3/5/2032,4/16/2026,No,No,7/20/2023,Active,-78.6728386,35.78378514,3/5/2024,7/20/2023,1/30/2025
+33,1443,Carmichael Gymnasium,Inside Lifeguards Office,101,01,X13E602191,Zoll,AED Plus,3/7/2032,4/16/2026,No,No,7/19/2023,Active,-78.67251315,35.7829954,3/7/2024,7/19/2023,1/30/2025
+34,44,Case Academic Center,Foyer of Main Entrance from Jeter Bay,103,02,X17C908109,Zoll,AED Plus,3/2/2030,1/10/2027,No,No,,Active,-78.66951619,35.78295202,3/19/2024,6/27/2022,1/30/2025
+35,85,Cates Avenue Steam Plant,2nd Floor Break Room (204),086,02,A10F-09770,Phillips,Heartstart,2/1/2026,6/1/2020,,,,Active,-78.67446738,35.78414292,7/5/2024,6/27/2022,1/30/2025
+36,83,Cox Hall,Cox Hall Room 205,055,,X18G042991,Zoll,AED Plus,3/1/2023,9/2/2023,,,,Active,-78.67091238,35.78602992,,6/27/2022,1/30/2025
+37,7452,D.H. Hill Jr. Library (East Wing),3rd floor by elevator #3 outside 3133,047,03,X14A648184,Zoll,AED Plus,3/31/2030,1/9/2027,No,Yes,5/2/2024,Hidden,-78.66952701,35.78757848,5/2/2024,5/2/2024,1/30/2025
+38,66,David Clark Labs,1st Floor - Across from Room 168,075,01,A12D-00329,Phillips,HeartStart,7/23/2023,7/23/2023,,,,Active,-78.67414738,35.78736292,,6/27/2022,1/30/2025
+39,1,D.H. Hill Jr. Library (East Wing),Circulation lobby by North Bookstack Stairs - Behind Book Collection Counter,047,01,NA041688,Welch Allyn,AED 10,8/1/2024,12/5/2022,No,Yes,,Hidden,-78.67014328,35.7878025,5/2/2024,6/27/2022,1/30/2025
+40,6,D.H. Hill Jr. Library (East Wing),1rst floor West Wing beside Room 1302 Hillsborough Street Side,047,01,NA050318,Welch Allyn,AED 10,8/1/2024,12/5/2022,No,Yes,,Hidden,-78.6706246,35.78788949,5/2/2024,6/27/2022,1/30/2025
+41,20,D.H. Hill Jr. Library (East Wing),3rd Floor East Wing Outside Elev #3 Across from Room 3130,047,03,X10F455277,Zoll,AED Plus,1/1/2027,1/1/2027,,,,Hidden,-78.66986838,35.78757992,,6/27/2022,1/30/2025
+42,23,D.H. Hill Jr. Library (East Wing),Ground floor east near elevator 3 - Across from Room G137,047,G,NA042444,Welch Allyn,AED 10,8/1/2024,12/5/2022,No,Yes,,Hidden,-78.66978028,35.7875486,5/2/2024,6/27/2022,1/30/2025
+43,39,D.H. Hill Jr. Library (East Wing),Ground Floor outside rm G424,047,G,X12E550108,Zoll,AED Plus,1/1/2027,1/1/2027,No,No,,Active,-78.66988498,35.78726898,5/2/2024,6/27/2022,1/30/2025
+44,76,D.H. Hill Jr. Library (East Wing),6th Floor South Tower Elevator 1&2 Lobby,047,06,NA050299,Welch Allyn,AED 10,8/1/2024,12/5/2022,No,Yes,,Hidden,-78.66972146,35.78760534,5/2/2024,6/27/2022,1/30/2025
+45,95,Gregg Museum of Art & Design,Across from front desk by elevator,001,,X17L977957,Zoll,AED Plus,3/2/2028,5/10/2023,Yes,No,,Active,-78.66183538,35.78509792,5/31/2024,6/27/2022,1/30/2025
+46,3852,Harris Hall,Across Student Services Center,090,02,A23I-01052,Phillips,HeartStart,2/28/2029,12/12/2025,No,No,2/28/2024,Active,-78.67435558,35.78577298,11/4/2024,2/28/2024,1/30/2025
+47,69,Hillsborough Building,Lobby off Hillsborough Street,048,01,X12H563730,Zoll,AED Plus,3/28/2028,3/17/2023,No,Yes,,Active,-78.67055768,35.78853915,3/7/2024,6/27/2022,1/30/2025
+48,56,Holladay Hall,Ground floor outside break room 8,003,G,X18I056397,Zoll,AED Plus,3/2/2028,3/16/2024,Yes,Yes,,Active,-78.66400938,35.78550292,3/7/2024,6/27/2022,1/30/2025
+49,72,Holmes Hall,Second Floor Elevator Lobby,077,02,X17L978242,Zoll,AED Plus,6/11/2023,7/21/2023,,,,Active,-78.67391538,35.78426792,,6/27/2022,1/30/2025
+52,119,Kamphoefner Hall,"Ground floor exterior walkway, near burns auditorium (room G20) and allred gallery (room G10)",011A,G,X04I041432,Zoll,AED Plus,3/1/2031,6/5/2027,Yes,No,7/13/2023,Active,-78.6654859,35.78465358,3/7/2024,12/9/2022,1/30/2025
+53,2652,Kilgore Hall,,069,01,,Zoll,AED Plus,1/30/2032,12/30/2026,,,10/30/2023,Active,-78.67278324,35.78815866,10/30/2023,10/30/2023,1/30/2025
+54,120,Leazar Hall,"2nd floor hallway, near restrooms (room 212 & 214) and materials lab (room 220)",018,02,X04F037162,Zoll,AED Plus,3/1/2028,6/5/2027,Yes,No,12/9/2022,Active,-78.66549853,35.78537337,5/31/2024,12/9/2022,1/30/2025
+55,97,Page Hall,1st Floor across from room 110,034,01,X17L977685,Zoll,AED Plus,3/1/2023,6/3/2023,,,,Active,-78.66702738,35.78596192,,6/27/2022,1/30/2025
+56,10,Park Shops,2nd Floor top of stairs outside Suite 211,033,02,X17C909516,Zoll,AED Plus,1/1/2027,1/1/2027,,,,Active,-78.66710738,35.78567292,,6/27/2022,1/30/2025
+57,53,Patterson Hall,3rd Floor West Stairwell - DH Hill Side,046,03,18D00015709,HeartSine,HS1,4/1/2023,4/1/2023,,,,Active,-78.66870281,35.78711559,,6/27/2022,1/30/2025
+59,81,Peele Hall,Ground Floor Break Room - Room 110,008,G,X14D671019,Zoll,AED Plus,3/31/2028,8/1/2019,Yes,Yes,,Active,-78.66466738,35.78583292,5/14/2024,6/27/2022,1/30/2025
+60,24,Poe Hall,Outside room 640 Psychology Office,024,06,X11L529829,Zoll,AED Plus,1/1/2027,1/1/2027,Yes,,,Active,-78.66642538,35.78580792,,6/27/2022,1/30/2025
+61,51,Poe Hall,Outside room 400 Media Library,024,04,X11L529791,Zoll,AED Plus,1/1/2027,1/1/2027,Yes,,,Active,-78.66618438,35.78569592,,6/27/2022,1/30/2025
+62,62,Poe Hall,Outside room 208 Deans Office,024,02,X11L529788,Zoll,AED Plus,1/1/2027,1/1/2027,Yes,,,Active,-78.66639738,35.78579492,,6/27/2022,1/30/2025
+63,58,Polk Hall,Outside room 121,050,,X161862383,Zoll,AED Plus,1/1/2027,1/1/2027,,,,Active,-78.67007438,35.78616092,,6/27/2022,1/30/2025
+70,33,Pullen Hall,Inside Suite 1104 - beside room 1115,090A,,X11L529830,Zoll,AED Plus,1/1/2027,1/1/2027,,,,Active,-78.67488738,35.78576292,,6/27/2022,1/30/2025
+71,30,Reynolds Coliseum,Outside room G07,100,,D00000629519,Cardiac Science,Power Heart AED G5,11/28/2020,11/28/2020,,,,Active,-78.67007738,35.78335592,,6/27/2022,1/30/2025
+72,32,Reynolds Coliseum,Inside court area by SE stairs,100,,B16A-04017,Phillips,Heartstart,12/1/2027,10/8/2024,No,,,Active,-78.67001738,35.78342292,3/25/2024,6/27/2022,1/30/2025
+73,123,Reynolds Coliseum,Inside room 101,100,,X10F459455,Zoll,AED Plus,3/1/2020,10/21/2023,,Yes,,Active,-78.66987838,35.78397692,,6/27/2022,1/30/2025
+74,5853,Reynolds Coliseum,Navy ROTC Go-bag 1,100,01,A12B-06234,Phillips,Heartstart,,6/14/2025,Not Assessed,,,,-78.66966919,35.78365348,,3/25/2024,1/30/2025
+75,5854,Reynolds Coliseum,Navy ROTC Go-bag 2,100,01,A15H-02626,Phillips,Heartstart,5/31/2025,,Not Assessed,,,,-78.66969601,35.78362519,3/25/2024,3/25/2024,1/30/2025
+76,42,Ricks Hall Addition,Suite 130 - Room 133,045A,,X18G043113,Zoll,AED Plus,3/1/2023,9/23/2023,,,,Active,-78.66742838,35.78715892,,6/27/2022,1/30/2025
+77,11,Schaub Food Science Building,1st Floor Outside Room 100,120,01,010088483804912321A15F-14331,Phillips,Heart Start HS1,11/22/2023,11/4/2025,Yes,,,Active,-78.67805938,35.78374592,,6/27/2022,1/30/2025
+78,243,Scott Hall,Outside 203,068,02,X18G043011,Zoll,AED Plus,,,No,,7/13/2023,Active,-78.67136315,35.78806574,,7/13/2023,1/30/2025
+79,60,Campus Health Center,2nd fl outside Room 2010,063,02,X11C489472,Zoll,AED Plus,3/28/2030,7/10/2026,Yes,No,,Active,-78.67539738,35.78477292,4/10/2024,6/27/2022,1/30/2025
+80,92,Campus Health Center,Treatment clinic on crash cart,063,01,X11C489445,Zoll,AED Plus,3/28/2030,7/10/2026,Not Assessed,No,,Active,-78.67523738,35.78473292,4/10/2024,6/27/2022,1/30/2025
+83,50,Talley Student Union,3rd floor by room 3254,102,03,X14J710741,Zoll,AED Plus,5/9/2024,5/9/2024,,,,Active,-78.67080738,35.78397292,,6/27/2022,1/30/2025
+84,63,Talley Student Union,Atrium by Information Desk - Outside of Room 2127,102,,X12J573108,Zoll,AED Plus,5/9/2024,5/9/2024,,,,Active,-78.67078738,35.78370292,,6/27/2022,1/30/2025
+85,3,Frank Thompson Hall,Craft Center,105,01,X17L977955,Zoll,AED Plus,1/1/2027,1/9/2027,Yes,,,Active,-78.66703938,35.78272592,,6/27/2022,1/30/2025
+86,89,Frank Thompson Hall,Beside Consession Stand - Right hallway,105,02,X12F556395,Zoll,AED Plus,3/2/2030,1/10/2027,Yes,No,,Active,-78.66700147,35.78292237,3/19/2024,6/27/2022,1/30/2025
+87,86,D. S. Weaver Labs,Outside Room 114,117,01,X17C909940,Zoll,AED Plus,3/2/2030,1/10/2027,No,,,Active,-78.67918623,35.78323492,3/14/2024,6/27/2022,1/30/2025
+88,6652,Weisiger-Brown Athletic Facility,Next to sports medicine ,111,02,D00000059697,Cardiac science ,Powerheart G5 ,7/10/2027,4/26/2026,No,No,4/10/2024,,-78.67085733,35.78073019,4/10/2024,4/10/2024,1/30/2025
+89,6653,Weisiger-Brown Athletic Facility,By 1206,111,G,D00000196280,Cardiac science ,Powerheart G5,10/10/2027,7/28/2025,No,No,4/10/2024,,-78.67052439,35.78081973,4/10/2024,4/10/2024,1/30/2025
+90,6654,Weisiger-Brown Athletic Facility,By 1201,111,G,4190433,Cardiac science ,Powerheart G3,4/10/2027,8/10/2024,No,,4/10/2024,,-78.67047531,35.78077546,4/10/2024,4/10/2024,1/30/2025
+92,4,Williams Hall,,062,02,5134490,Cardiac Science,Powerheart AED G3,10/31/2027,12/31/2024,No,Yes,5/14/2024,Active,-78.67189638,35.78684692,5/14/2024,6/27/2022,1/30/2025
+93,5,Williams Hall,,062,01,A19C-03826,Phillips,Heartstart,5/31/2026,5/31/2021,No,Yes,5/14/2024,Active,-78.67189538,35.78683692,5/14/2024,6/27/2022,1/30/2025
+94,45,Williams Hall,,062,03,X14H702045,Zoll,AED Plus,9/1/2027,1/1/1970,No,No,,Active,-78.67182738,35.78681892,5/14/2024,6/27/2022,1/30/2025
+95,61,Williams Hall,,062,04,A19A-12587,Phillips,Heartstart,12/31/2027,6/30/2021,No,Yes,5/14/2024,Active,-78.67167938,35.78677392,5/14/2024,6/27/2022,1/30/2025
+96,7,Withers Hall,3rd floor lobby near elevator,043,03,X17L978093,Zoll,AED Plus,3/1/2023,6/1/2023,,,,Active,-78.66785538,35.78633692,,6/27/2022,1/30/2025
+97,100,Caldwell Hall,Caldwell Hall - Outside Room 106,025,,X17L977845,Zoll,AED Plus,3/1/2023,6/17/2023,,,,Active,-78.66577138,35.78677992,,6/27/2022,1/30/2025
+98,41,Witherspoon Student Center,Outside hall by room 118,081,,X11C489529,Zoll,AED Plus,3/31/2030,12/26/2026,No,Yes,,Active,-78.67441738,35.78531292,4/12/2024,6/27/2022,1/30/2025
+99,82,Yarbrough Central Utility Plant (YCUP),Inside Room 111 or on a truck,029,,400014753,Defib-Tech,Lifeline View,2/1/2026,7/1/2021,,Yes,,Active,-78.66754738,35.78436292,,6/27/2022,1/30/2025
+100,55,Yarbrough Central Utility Plant (YCUP),2nd Floor Control Room,029,02,A10F-09197,Phillips,Heartstart,7/1/2022,7/1/2020,No,,,Active,-78.66753738,35.78437292,3/25/2024,6/27/2022,1/30/2025
+104,64,Carmichael Gymnasium,,101,,X13D599149,,,,,,Yes,,Active,-78.67163738,35.78274292,,6/27/2022,1/30/2025
+105,1852,Jordan Hall,In lobby near elevators,058,01,010084794600215221X19H195347,Zoll,AED Plus,3/1/2028,11/10/2024,No,No,,Active,-78.67648234,35.78184767,,9/13/2023,1/30/2025
